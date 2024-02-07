@@ -1,0 +1,12 @@
+C:\Users\maruk\source\repos\Notes.Backend\Notes.Domain\bin\Debug\net5.0\Notes.Domain.deps.json
+C:\Users\maruk\source\repos\Notes.Backend\Notes.Domain\bin\Debug\net5.0\Notes.Domain.dll
+C:\Users\maruk\source\repos\Notes.Backend\Notes.Domain\bin\Debug\net5.0\Notes.Domain.pdb
+C:\Users\maruk\source\repos\Notes.Backend\Notes.Domain\obj\Debug\net5.0\Notes.Domain.csproj.AssemblyReference.cache
+C:\Users\maruk\source\repos\Notes.Backend\Notes.Domain\obj\Debug\net5.0\Notes.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\maruk\source\repos\Notes.Backend\Notes.Domain\obj\Debug\net5.0\Notes.Domain.AssemblyInfoInputs.cache
+C:\Users\maruk\source\repos\Notes.Backend\Notes.Domain\obj\Debug\net5.0\Notes.Domain.AssemblyInfo.cs
+C:\Users\maruk\source\repos\Notes.Backend\Notes.Domain\obj\Debug\net5.0\Notes.Domain.csproj.CoreCompileInputs.cache
+C:\Users\maruk\source\repos\Notes.Backend\Notes.Domain\obj\Debug\net5.0\Notes.Domain.dll
+C:\Users\maruk\source\repos\Notes.Backend\Notes.Domain\obj\Debug\net5.0\refint\Notes.Domain.dll
+C:\Users\maruk\source\repos\Notes.Backend\Notes.Domain\obj\Debug\net5.0\Notes.Domain.pdb
+C:\Users\maruk\source\repos\Notes.Backend\Notes.Domain\obj\Debug\net5.0\ref\Notes.Domain.dll

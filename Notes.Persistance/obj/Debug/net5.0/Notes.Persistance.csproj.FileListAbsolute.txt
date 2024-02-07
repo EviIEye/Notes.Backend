@@ -1,0 +1,17 @@
+C:\Users\maruk\source\repos\Notes.Backend\Notes.Persistance\bin\Debug\net5.0\Notes.Persistance.deps.json
+C:\Users\maruk\source\repos\Notes.Backend\Notes.Persistance\bin\Debug\net5.0\Notes.Persistance.dll
+C:\Users\maruk\source\repos\Notes.Backend\Notes.Persistance\bin\Debug\net5.0\Notes.Persistance.pdb
+C:\Users\maruk\source\repos\Notes.Backend\Notes.Persistance\bin\Debug\net5.0\Notes.Application.dll
+C:\Users\maruk\source\repos\Notes.Backend\Notes.Persistance\bin\Debug\net5.0\Notes.Domain.dll
+C:\Users\maruk\source\repos\Notes.Backend\Notes.Persistance\bin\Debug\net5.0\Notes.Application.pdb
+C:\Users\maruk\source\repos\Notes.Backend\Notes.Persistance\bin\Debug\net5.0\Notes.Domain.pdb
+C:\Users\maruk\source\repos\Notes.Backend\Notes.Persistance\obj\Debug\net5.0\Notes.Persistance.csproj.AssemblyReference.cache
+C:\Users\maruk\source\repos\Notes.Backend\Notes.Persistance\obj\Debug\net5.0\Notes.Persistance.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\maruk\source\repos\Notes.Backend\Notes.Persistance\obj\Debug\net5.0\Notes.Persistance.AssemblyInfoInputs.cache
+C:\Users\maruk\source\repos\Notes.Backend\Notes.Persistance\obj\Debug\net5.0\Notes.Persistance.AssemblyInfo.cs
+C:\Users\maruk\source\repos\Notes.Backend\Notes.Persistance\obj\Debug\net5.0\Notes.Persistance.csproj.CoreCompileInputs.cache
+C:\Users\maruk\source\repos\Notes.Backend\Notes.Persistance\obj\Debug\net5.0\Notes.Persistance.csproj.CopyComplete
+C:\Users\maruk\source\repos\Notes.Backend\Notes.Persistance\obj\Debug\net5.0\Notes.Persistance.dll
+C:\Users\maruk\source\repos\Notes.Backend\Notes.Persistance\obj\Debug\net5.0\refint\Notes.Persistance.dll
+C:\Users\maruk\source\repos\Notes.Backend\Notes.Persistance\obj\Debug\net5.0\Notes.Persistance.pdb
+C:\Users\maruk\source\repos\Notes.Backend\Notes.Persistance\obj\Debug\net5.0\ref\Notes.Persistance.dll
